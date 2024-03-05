@@ -1,6 +1,8 @@
 #pragma once
 
 #include "data.hpp"
+#include <fstream>
+#include <iostream>
 
 namespace Task
 {
